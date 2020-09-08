@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "57531833360",
+    "firebase_url": "https://uza-v1.firebaseio.com",
+    "project_id": "uza-v1",
+    "storage_bucket": "uza-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57531833360:android:8783ef9959afe0e622be95",
+        "android_client_info": {
+          "package_name": "com.manuh.uza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57531833360-n363mtk36o8ogs1nce2v3ruidiha9osi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manuh.uza",
+            "certificate_hash": "316165522106ed3480f8ff36b926989f146d7099"
+          }
+        },
+        {
+          "client_id": "57531833360-6bf9o35ttq04q8o2cev1b3979dj8ocuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ScY2aTdOYc7VJKsQ8ZL9PTX2fJcbAtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57531833360-6bf9o35ttq04q8o2cev1b3979dj8ocuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
